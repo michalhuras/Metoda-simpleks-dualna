@@ -22,7 +22,7 @@ Ready:
 
 Doing: 
 		-napisac fragment obliczenia i tworzenia nowej tabeli 
-
+			@na podstawie kodu w Matlabie napisaæ mechanizm przeliczajacy
 
 
 Done:
