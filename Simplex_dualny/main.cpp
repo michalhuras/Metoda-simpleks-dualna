@@ -202,6 +202,22 @@ int main()
     krok_dualny(tablica,tablica2);
     wyswietl(tablica2);
 
+    string nowy_plik;
+    cout<<"Wpisz nazwe do ktorej zapisac nowa tablice"<<endl;
+    cin>>nowy_plik;
+    nowy_plik=nowy_plik+".txt";
+    char* plikstr=&nowy_plik[0];
+    fstream plik2(plikstr, ios::out);
+
+
+    for (int i=0;i<tablica.w;i++)
+    {
+        for (int j=0;j<tablica.k;j++)
+        {
+           plik2<<tablica2.tablica[i][j]<<" ";
+        }
+         plik2<<endl;
+    }
 
     kasowanie(tablica);
     kasowanie(tablica2);

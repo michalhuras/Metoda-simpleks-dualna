@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507491833 source:c:\users\u¿ytkownik\desktop\kursy\c++\projekty w³asne\metoda_simpleks_dualna\simplex\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
