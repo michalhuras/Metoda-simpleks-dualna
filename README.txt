@@ -1,31 +1,36 @@
 Metoda optymalizacji. 
-Za³o¿enia projektu: napisaæ program wykonuj¹cy obliczenia optymalizacyjne o funkcjonalnoœci conajmniej takiej samej jak wczeœniej napisany w Matlabie.
+ZaÅ‚oÅ¼enia projektu: napisaÄ‡ program wykonujÄ…cy obliczenia optymalizacyjne o funkcjonalnoÅ›ci conajmniej takiej samej jak wczeÅ›niej napisany w Matlabie.
 Backlog: 
 
-*Opracowaæ interfejs u¿ytkownika u¿ytkownika
-*napisac funkcje sprawdzajaca czy dana tabela jest optymalna 
+*OpracowaÄ‡ interfejs uÅ¼ytkownika uÅ¼ytkownika
+
 *napisac funkcje ktora stworzy z danych tabele simpleks
 
 Ready:
 
-	*Napisaæ funkcjê przeliczaj¹ce tablice metod¹ simpleks
+	*napisac funkcje sprawdzajaca czy dana tabela jest optymalna 
+		-napisac fragment odczytu z pliku .txt 
+		-napisac fragment tworzenia tabeli
+		-sprawdzanie optymalnosci tabeli
+		-wyswietlanie komunikatu odpowiadajacego postaci funkcji
+		-sprawdzanie punktow optymalnych (jesli mozliwe)
+		-wyswietlanie punktow optymalnych
+
+Doing: 
+		
+		-zdebugowac metode przeliczania simpleks
+
+Done:
+		-opracowac przykladowe tablice do sprawdzania dzialania funkcji 
+	*NapisaÄ‡ funkcjÄ™ przeliczajÄ…ce tablice metodÄ… dualna simpleks
+		
+		-napisac fragment obliczenia i tworzenia nowej tabeli 
+			@na podstawie kodu w Matlabie napisaÄ‡ mechanizm przeliczajacy
+			@sprawdzic dla kilku przypadkow
+		-napisac fragment zapisu nowych tabel
+	*NapisaÄ‡ funkcjÄ™ przeliczajÄ…ce tablice metodÄ… simpleks
 		-napisac fragment odczytu z pliku .txt
 		-napisac fragment tworzenia tabeli
 		-napisac fragment obliczenia i tworzenia nowej tabeli 
 		-napisac fragment zapisu nowej tabeli
-	*Napisaæ funkcjê przeliczaj¹ce tablice metod¹ dualna simpleks
-		-napisac fragment obliczenia i tworzenia nowej tabeli 
-			@na podstawie kodu w Matlabie napisaæ mechanizm przeliczajacy
-			@sprawdzic dla kilku przypadkow
-		-napisac fragment zapisu nowych tabel
-
-
-Doing: 
-		-napisac fragment obliczenia i tworzenia nowej tabeli 
-			@na podstawie kodu w Matlabie napisaæ mechanizm przeliczajacy
-
-
-Done:
-		-opracowac przykladowe tablice do sprawdzania dzialania funkcji 
-		-napisac fragment odczytu z pliku .txt (dualny simplex)
-		-napisac fragment tworzenia tabeli
+		
