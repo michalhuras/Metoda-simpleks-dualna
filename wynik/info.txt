@@ -1,0 +1,4 @@
+tabela_simplex0 -wynik:24	punkt:8,0
+tabela_simplex1 -wynik:-0	punkt:0,9
+
+Tabele pochodz¹ ze sprawozdania

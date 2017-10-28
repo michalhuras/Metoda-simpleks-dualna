@@ -1,0 +1,12 @@
+Funkcja zwraca wartoœæ:
+0- jeszcze nie optymalne,
+1- funkcja optymalna (jeden wierzcho³ek)-nie ma ¿adnych zer
+2- funkcja optymalna (odcinek)- jest zero i da sie przeliczyæ,bo nie wszystkie wartoœci s¹ ujemne
+3 -funkcja optymalna (pó³prosta)- jest zero, ale nie da siê przeliczyæ bo same ujemne s¹.
+
+tabela_simplex -	wynik: 0 	
+tabela_simplex2 -	wynik: 1	
+tabela_simplex3 -	wynik: 2	
+tabela_simplex4 -	wynik: 3	
+
+Tablice pochodz¹ ze sprawozdania.

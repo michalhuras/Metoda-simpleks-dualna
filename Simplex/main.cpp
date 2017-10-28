@@ -191,7 +191,7 @@ int main()
     matlabowego skryptu "simplex"
     */
 
-    char* plik="tabela_simplex2.txt";
+    char* plik="tabela_simplex.txt";
     tablica_struct tablica;
     tablica=odczytaj(plik);
     wyswietl(tablica);
