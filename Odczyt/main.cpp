@@ -129,6 +129,8 @@ tablica_struct odczytaj(char * sciezka)
                 }
                 wiersz++;
             }
+
+    plik.close();
     return t;
     }
 }
@@ -204,6 +206,8 @@ vector < vector < float > >  odczytaj2(char * sciezka)
                 }
                 wiersz++;
             }
+
+    plik.close();
     return wektor;
     }
 }

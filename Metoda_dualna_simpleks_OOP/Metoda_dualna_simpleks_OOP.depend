@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1510239096 source:c:\users\u¿ytkownik\desktop\kursy\c++\projekty w³asne\metoda_simpleks_dualna\metoda_dualna_simpleks_oop\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1510229641 c:\users\u¿ytkownik\desktop\kursy\c++\projekty w³asne\metoda_simpleks_dualna\metoda_dualna_simpleks_oop\tabela_dualna_simpleks.h
+	<iostream>
+
+1510229641 source:c:\users\u¿ytkownik\desktop\kursy\c++\projekty w³asne\metoda_simpleks_dualna\metoda_dualna_simpleks_oop\tabela_dualna_simpleks.cpp
+	<iostream>
+	"tabela_dualna_simpleks.h"
+	"main.cpp"
+	<fstream>
+	<cstdlib>
+
+1510239773 c:\users\u¿ytkownik\desktop\kursy\c++\projekty w³asne\metoda_simpleks_dualna\metoda_dualna_simpleks_oop\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdlib>
+
